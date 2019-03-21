@@ -1,0 +1,17 @@
+eu.interiot.gateway.commons.api
+eu.interiot.gateway.commons.api.command
+eu.interiot.gateway.commons.api.configuration
+eu.interiot.gateway.commons.api.connector
+eu.interiot.gateway.commons.api.core
+eu.interiot.gateway.commons.api.device
+eu.interiot.gateway.commons.api.dispatcher
+eu.interiot.gateway.commons.api.gateway
+eu.interiot.gateway.commons.api.messages
+eu.interiot.gateway.commons.api.services
+eu.interiot.gateway.commons.api.storage
+eu.interiot.gateway.commons.physical.api.dmanager
+eu.interiot.gateway.commons.physical.api.registry
+eu.interiot.gateway.commons.physical.api.remote
+eu.interiot.gateway.commons.virtual.api
+eu.interiot.gateway.commons.virtual.api.remote
+eu.interiot.gateway.commons.virtual.api.storage
